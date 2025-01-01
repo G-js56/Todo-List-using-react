@@ -4,7 +4,7 @@ A simple and fully responsive Todo List application built with React. This app u
 
 Live Demo
 
-Check out the live version of the app (https://task-maganer.netlify.app/).
+Check out the live version of the app (https://todo-list-using-react-nine.vercel.app/).
 
 Features
 
@@ -17,7 +17,7 @@ Local storage for data persistence
 
 
 Technologies Used
-    
+
 React
 Javascript
 Tailwind css
